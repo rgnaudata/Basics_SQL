@@ -1,8 +1,8 @@
-## Sprint_2
+# Sprint_2
 
-# Ejercicios sobre la teoria del Sprint 2. 
+## Ejercicios sobre la teoria del Sprint 2. 
 
-# Algunas de las funciones y aspectos que tocamos:
+## Algunas de las funciones y aspectos que trabajamos:
 
   - JOINS
   - SUBQUERIES
